@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-04-21T13:11:56.230Z",
+  "nodeCount": 146,
+  "edgeCountDirected": 872,
+  "testCount": 33,
+  "passCount": 23,
+  "passRate": 0.696969696969697,
+  "fixedCases": [
+    {
+      "label": "同层步行",
+      "startId": "1F_entrance_1F门诊入口_mo8in2ck",
+      "endId": "1F_hub_1F门诊收费_mo8ig2b9"
+    },
+    {
+      "label": "跨层电梯",
+      "startId": "1F_lift_1F客梯A1A2_mo8igrb9",
+      "endId": "2F_lift_2F客梯A1A2_mo8isuke"
+    },
+    {
+      "label": "跨层楼梯",
+      "startId": "1F_stairs_1F门诊收费旁楼梯_mo8imq2c",
+      "endId": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7"
+    }
+  ]
+}

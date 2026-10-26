@@ -1,0 +1,2654 @@
+[
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8ikcm6",
+    "to": "1F_stairs_1FA3电梯旁楼梯_mo8ilwcd",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8ikcm6",
+    "to": "1F_stairs_1F输液室旁楼梯_mo8im4kb",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8ikcm6",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 330
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8ikcm6",
+    "to": "1F_hub_1F急诊药房_mo8ifedv",
+    "kind": "walk",
+    "weight": 617
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8ikcm6",
+    "to": "1F_hub_1F注射室_mo8iflqg",
+    "kind": "walk",
+    "weight": 616
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8ikcm6",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_stairs_1FA3电梯旁楼梯_mo8ilwcd",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 330
+  },
+  {
+    "from": "1F_stairs_1FA3电梯旁楼梯_mo8ilwcd",
+    "to": "1F_stairs_1F输液室旁楼梯_mo8im4kb",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "1F_stairs_1FA3电梯旁楼梯_mo8ilwcd",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_stairs_1FA3电梯旁楼梯_mo8ilwcd",
+    "to": "1F_hub_1F急诊药房_mo8ifedv",
+    "kind": "walk",
+    "weight": 617
+  },
+  {
+    "from": "1F_stairs_1FA3电梯旁楼梯_mo8ilwcd",
+    "to": "1F_hub_1F注射室_mo8iflqg",
+    "kind": "walk",
+    "weight": 616
+  },
+  {
+    "from": "1F_stairs_1F输液室旁楼梯_mo8im4kb",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 330
+  },
+  {
+    "from": "1F_stairs_1F输液室旁楼梯_mo8im4kb",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_stairs_1F输液室旁楼梯_mo8im4kb",
+    "to": "1F_hub_1F注射室_mo8iflqg",
+    "kind": "walk",
+    "weight": 616
+  },
+  {
+    "from": "1F_stairs_1F输液室旁楼梯_mo8im4kb",
+    "to": "1F_hub_1F急诊药房_mo8ifedv",
+    "kind": "walk",
+    "weight": 617
+  },
+  {
+    "from": "1F_room_1F睡眠门诊_mo8if3mc",
+    "to": "1F_hub_1F保健办_mo8ifyap",
+    "kind": "walk",
+    "weight": 112
+  },
+  {
+    "from": "1F_room_1F睡眠门诊_mo8if3mc",
+    "to": "1F_hub_1F西药房_mo8ifv2s",
+    "kind": "walk",
+    "weight": 392
+  },
+  {
+    "from": "1F_room_1F睡眠门诊_mo8if3mc",
+    "to": "1F_stairs_1F保健办旁楼梯_mo8imj7m",
+    "kind": "walk",
+    "weight": 304
+  },
+  {
+    "from": "1F_room_1F睡眠门诊_mo8if3mc",
+    "to": "1F_hub_1F中药房_mo8ifrz3",
+    "kind": "walk",
+    "weight": 455
+  },
+  {
+    "from": "1F_hub_1F保健办_mo8ifyap",
+    "to": "1F_stairs_1F保健办旁楼梯_mo8imj7m",
+    "kind": "walk",
+    "weight": 293
+  },
+  {
+    "from": "1F_hub_1F保健办_mo8ifyap",
+    "to": "1F_hub_1F西药房_mo8ifv2s",
+    "kind": "walk",
+    "weight": 504
+  },
+  {
+    "from": "1F_hub_1F保健办_mo8ifyap",
+    "to": "1F_hub_1F中药房_mo8ifrz3",
+    "kind": "walk",
+    "weight": 547
+  },
+  {
+    "from": "1F_hub_1F急诊收费_mo8ifa8w",
+    "to": "1F_hub_1F急诊药房_mo8ifedv",
+    "kind": "walk",
+    "weight": 200
+  },
+  {
+    "from": "1F_hub_1F急诊收费_mo8ifa8w",
+    "to": "1F_room_1F急诊科_mo8iese2",
+    "kind": "walk",
+    "weight": 204
+  },
+  {
+    "from": "1F_hub_1F急诊收费_mo8ifa8w",
+    "to": "1F_entrance_1F急诊入口_mo8imy7f",
+    "kind": "walk",
+    "weight": 521
+  },
+  {
+    "from": "1F_hub_1F急诊药房_mo8ifedv",
+    "to": "1F_room_1F急诊科_mo8iese2",
+    "kind": "walk",
+    "weight": 404
+  },
+  {
+    "from": "1F_hub_1F急诊药房_mo8ifedv",
+    "to": "1F_entrance_1F急诊入口_mo8imy7f",
+    "kind": "walk",
+    "weight": 559
+  },
+  {
+    "from": "1F_room_1F急诊科_mo8iese2",
+    "to": "1F_stairs_1F急诊科旁楼梯_mo8il75w",
+    "kind": "walk",
+    "weight": 580
+  },
+  {
+    "from": "1F_room_1F急诊科_mo8iese2",
+    "to": "1F_lift_1F货梯_mo8igxyz",
+    "kind": "walk",
+    "weight": 663
+  },
+  {
+    "from": "1F_room_1F急诊科_mo8iese2",
+    "to": "1F_entrance_1F急诊入口_mo8imy7f",
+    "kind": "walk",
+    "weight": 550
+  },
+  {
+    "from": "1F_hub_1F中药房_mo8ifrz3",
+    "to": "1F_hub_1F西药房_mo8ifv2s",
+    "kind": "walk",
+    "weight": 249
+  },
+  {
+    "from": "1F_hub_1F中药房_mo8ifrz3",
+    "to": "1F_hub_1F洗手间_mo8inxwn",
+    "kind": "walk",
+    "weight": 449
+  },
+  {
+    "from": "1F_hub_1F中药房_mo8ifrz3",
+    "to": "1F_stairs_1F保健办旁楼梯_mo8imj7m",
+    "kind": "walk",
+    "weight": 442
+  },
+  {
+    "from": "1F_hub_1F中药房_mo8ifrz3",
+    "to": "1F_stairs_1F西药房旁楼梯_mo8imfnf",
+    "kind": "walk",
+    "weight": 511
+  },
+  {
+    "from": "1F_hub_1F中药房_mo8ifrz3",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 594
+  },
+  {
+    "from": "1F_hub_1F中药房_mo8ifrz3",
+    "to": "1F_hub_1F注射室_mo8iflqg",
+    "kind": "walk",
+    "weight": 557
+  },
+  {
+    "from": "1F_hub_1F西药房_mo8ifv2s",
+    "to": "1F_stairs_1F西药房旁楼梯_mo8imfnf",
+    "kind": "walk",
+    "weight": 339
+  },
+  {
+    "from": "1F_hub_1F西药房_mo8ifv2s",
+    "to": "1F_hub_1F左导诊台_mo8ig82b",
+    "kind": "walk",
+    "weight": 542
+  },
+  {
+    "from": "1F_hub_1F西药房_mo8ifv2s",
+    "to": "1F_hub_1F洗手间_mo8inxwn",
+    "kind": "walk",
+    "weight": 632
+  },
+  {
+    "from": "1F_hub_1F西药房_mo8ifv2s",
+    "to": "1F_stairs_1F保健办旁楼梯_mo8imj7m",
+    "kind": "walk",
+    "weight": 540
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8il185",
+    "to": "1F_entrance_1F通往住院部_mo8ittbz",
+    "kind": "walk",
+    "weight": 255
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8il185",
+    "to": "1F_lift_1F货梯_mo8igxyz",
+    "kind": "walk",
+    "weight": 478
+  },
+  {
+    "from": "1F_stairs_1F通往住院部楼梯_mo8il185",
+    "to": "2F_stairs_2F通往住院部楼梯_mo8itee8",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_entrance_1F通往住院部_mo8ittbz",
+    "to": "1F_lift_1F货梯_mo8igxyz",
+    "kind": "walk",
+    "weight": 483
+  },
+  {
+    "from": "1F_stairs_1F保健办旁楼梯_mo8imj7m",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 528
+  },
+  {
+    "from": "1F_stairs_1F保健办旁楼梯_mo8imj7m",
+    "to": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_hub_1F注射室_mo8iflqg",
+    "to": "1F_hub_1F洗手间_mo8inxwn",
+    "kind": "walk",
+    "weight": 301
+  },
+  {
+    "from": "1F_hub_1F注射室_mo8iflqg",
+    "to": "1F_stairs_1F注射室旁楼梯_mo8imaan",
+    "kind": "walk",
+    "weight": 363
+  },
+  {
+    "from": "1F_hub_1F注射室_mo8iflqg",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 408
+  },
+  {
+    "from": "1F_hub_1F注射室_mo8iflqg",
+    "to": "1F_lift_1F客梯A1A2_mo8igrb9",
+    "kind": "walk",
+    "weight": 552
+  },
+  {
+    "from": "1F_hub_1F洗手间_mo8inxwn",
+    "to": "1F_lift_1F客梯A1A2_mo8igrb9",
+    "kind": "walk",
+    "weight": 434
+  },
+  {
+    "from": "1F_hub_1F洗手间_mo8inxwn",
+    "to": "1F_lift_1F扶梯_mo8ighrx",
+    "kind": "walk",
+    "weight": 493
+  },
+  {
+    "from": "1F_hub_1F洗手间_mo8inxwn",
+    "to": "1F_stairs_1F注射室旁楼梯_mo8imaan",
+    "kind": "walk",
+    "weight": 560
+  },
+  {
+    "from": "1F_hub_1F洗手间_mo8inxwn",
+    "to": "1F_hub_1F输液室_mo8ifif1",
+    "kind": "walk",
+    "weight": 638
+  },
+  {
+    "from": "1F_entrance_1F发热门诊留观入口_mo8in8oi",
+    "to": "1F_entrance_1F发热门诊诊疗入口_mo8inc96",
+    "kind": "walk",
+    "weight": 304
+  },
+  {
+    "from": "1F_entrance_1F发热门诊留观入口_mo8in8oi",
+    "to": "1F_room_1F发热门诊_mo8iez8c",
+    "kind": "walk",
+    "weight": 322
+  },
+  {
+    "from": "1F_entrance_1F发热门诊诊疗入口_mo8inc96",
+    "to": "1F_room_1F发热门诊_mo8iez8c",
+    "kind": "walk",
+    "weight": 336
+  },
+  {
+    "from": "1F_hub_1F门诊收费_mo8ig2b9",
+    "to": "1F_stairs_1F门诊收费旁楼梯_mo8imq2c",
+    "kind": "walk",
+    "weight": 317
+  },
+  {
+    "from": "1F_hub_1F门诊收费_mo8ig2b9",
+    "to": "1F_room_1F发热门诊_mo8iez8c",
+    "kind": "walk",
+    "weight": 513
+  },
+  {
+    "from": "1F_hub_1F门诊收费_mo8ig2b9",
+    "to": "1F_lift_1F扶梯_mo8ighrx",
+    "kind": "walk",
+    "weight": 597
+  },
+  {
+    "from": "1F_hub_1F门诊收费_mo8ig2b9",
+    "to": "1F_hub_1F右导诊台_mo8igbt7",
+    "kind": "walk",
+    "weight": 664
+  },
+  {
+    "from": "1F_stairs_1F门诊收费旁楼梯_mo8imq2c",
+    "to": "1F_hub_1F右导诊台_mo8igbt7",
+    "kind": "walk",
+    "weight": 421
+  },
+  {
+    "from": "1F_stairs_1F门诊收费旁楼梯_mo8imq2c",
+    "to": "1F_lift_1F扶梯_mo8ighrx",
+    "kind": "walk",
+    "weight": 510
+  },
+  {
+    "from": "1F_stairs_1F门诊收费旁楼梯_mo8imq2c",
+    "to": "1F_entrance_1F门诊入口_mo8in2ck",
+    "kind": "walk",
+    "weight": 634
+  },
+  {
+    "from": "1F_stairs_1F门诊收费旁楼梯_mo8imq2c",
+    "to": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_hub_1F输液室_mo8ifif1",
+    "to": "1F_stairs_1F注射室旁楼梯_mo8imaan",
+    "kind": "walk",
+    "weight": 660
+  },
+  {
+    "from": "1F_stairs_1F西药房旁楼梯_mo8imfnf",
+    "to": "1F_hub_1F左导诊台_mo8ig82b",
+    "kind": "walk",
+    "weight": 400
+  },
+  {
+    "from": "1F_stairs_1F西药房旁楼梯_mo8imfnf",
+    "to": "1F_lift_1F扶梯_mo8ighrx",
+    "kind": "walk",
+    "weight": 520
+  },
+  {
+    "from": "1F_stairs_1F西药房旁楼梯_mo8imfnf",
+    "to": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_stairs_1F西药房旁楼梯_mo8imfnf",
+    "to": "1F_entrance_1F门诊入口_mo8in2ck",
+    "kind": "walk",
+    "weight": 609
+  },
+  {
+    "from": "1F_stairs_1F注射室旁楼梯_mo8imaan",
+    "to": "1F_lift_1F客梯A3A4_mo8iguu6",
+    "kind": "walk",
+    "weight": 474
+  },
+  {
+    "from": "1F_stairs_1F注射室旁楼梯_mo8imaan",
+    "to": "1F_lift_1F客梯A1A2_mo8igrb9",
+    "kind": "walk",
+    "weight": 506
+  },
+  {
+    "from": "1F_stairs_1F注射室旁楼梯_mo8imaan",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_lift_1F客梯A3A4_mo8iguu6",
+    "to": "1F_stairs_1FA3电梯旁楼梯_mo8ilbry",
+    "kind": "walk",
+    "weight": 385
+  },
+  {
+    "from": "1F_lift_1F客梯A3A4_mo8iguu6",
+    "to": "1F_lift_1F客梯A1A2_mo8igrb9",
+    "kind": "walk",
+    "weight": 608
+  },
+  {
+    "from": "1F_lift_1F客梯A3A4_mo8iguu6",
+    "to": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "1F_stairs_1FA3电梯旁楼梯_mo8ilbry",
+    "to": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "1F_hub_1F左导诊台_mo8ig82b",
+    "to": "1F_entrance_1F门诊入口_mo8in2ck",
+    "kind": "walk",
+    "weight": 546
+  },
+  {
+    "from": "1F_hub_1F右导诊台_mo8igbt7",
+    "to": "1F_entrance_1F门诊入口_mo8in2ck",
+    "kind": "walk",
+    "weight": 489
+  },
+  {
+    "from": "1F_lift_1F客梯A1A2_mo8igrb9",
+    "to": "2F_lift_2F客梯A1A2_mo8isuke",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "1F_lift_1F客梯A1A2_mo8igrb9",
+    "to": "1F_lift_1F扶梯_mo8ighrx",
+    "kind": "walk",
+    "weight": 568
+  },
+  {
+    "from": "1F_lift_1F货梯_mo8igxyz",
+    "to": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "1F_entrance_1F急诊入口_mo8imy7f",
+    "to": "1F_stairs_1F急诊科旁楼梯_mo8il75w",
+    "kind": "walk",
+    "weight": 603
+  },
+  {
+    "from": "1F_stairs_1F急诊科旁楼梯_mo8il75w",
+    "to": "2F_stairs_2F导管室旁楼梯_mo8irrj9",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_room_2F外科_mo8iq633",
+    "kind": "walk",
+    "weight": 416
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "kind": "walk",
+    "weight": 596
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "walk",
+    "weight": 793
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "kind": "walk",
+    "weight": 812
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqmh8",
+    "to": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "kind": "walk",
+    "weight": 859
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "to": "2F_room_2F外科_mo8iq633",
+    "kind": "walk",
+    "weight": 416
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "to": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "to": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "kind": "walk",
+    "weight": 596
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "walk",
+    "weight": 793
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "to": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "kind": "walk",
+    "weight": 812
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯_mo8iqqgm",
+    "to": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "kind": "walk",
+    "weight": 859
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "to": "2F_room_2F外科_mo8iq633",
+    "kind": "walk",
+    "weight": 416
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "to": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "kind": "walk",
+    "weight": 596
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "walk",
+    "weight": 793
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "to": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "kind": "walk",
+    "weight": 812
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯1_mo8iqtsv",
+    "to": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "kind": "walk",
+    "weight": 859
+  },
+  {
+    "from": "2F_stairs_2F核磁共振室旁楼梯_mo8irwb7",
+    "to": "2F_lift_2F核磁共振室旁货梯_mo8iskum",
+    "kind": "walk",
+    "weight": 176
+  },
+  {
+    "from": "2F_stairs_2F核磁共振室旁楼梯_mo8irwb7",
+    "to": "2F_hub_2F核磁共振室_mo8ip5fb",
+    "kind": "walk",
+    "weight": 564
+  },
+  {
+    "from": "2F_stairs_2F核磁共振室旁楼梯_mo8irwb7",
+    "to": "2F_hub_2FCT室_mo8ip8e4",
+    "kind": "walk",
+    "weight": 703
+  },
+  {
+    "from": "2F_lift_2F核磁共振室旁货梯_mo8iskum",
+    "to": "2F_hub_2F核磁共振室_mo8ip5fb",
+    "kind": "walk",
+    "weight": 493
+  },
+  {
+    "from": "2F_lift_2F核磁共振室旁货梯_mo8iskum",
+    "to": "2F_hub_2FCT室_mo8ip8e4",
+    "kind": "walk",
+    "weight": 589
+  },
+  {
+    "from": "2F_lift_2F核磁共振室旁货梯_mo8iskum",
+    "to": "2F_room_2F核医学科_mo8ipu3c",
+    "kind": "walk",
+    "weight": 782
+  },
+  {
+    "from": "2F_hub_2F核磁共振室_mo8ip5fb",
+    "to": "2F_hub_2FCT室_mo8ip8e4",
+    "kind": "walk",
+    "weight": 208
+  },
+  {
+    "from": "2F_hub_2F核磁共振室_mo8ip5fb",
+    "to": "2F_hub_2F核磁共振室旁洗手间_mo8ioqu8",
+    "kind": "walk",
+    "weight": 582
+  },
+  {
+    "from": "2F_hub_2F核磁共振室_mo8ip5fb",
+    "to": "2F_room_2F核医学科_mo8ipu3c",
+    "kind": "walk",
+    "weight": 480
+  },
+  {
+    "from": "2F_hub_2FCT室_mo8ip8e4",
+    "to": "2F_room_2F核医学科_mo8ipu3c",
+    "kind": "walk",
+    "weight": 272
+  },
+  {
+    "from": "2F_hub_2FCT室_mo8ip8e4",
+    "to": "2F_hub_2F核磁共振室旁洗手间_mo8ioqu8",
+    "kind": "walk",
+    "weight": 727
+  },
+  {
+    "from": "2F_hub_2FCT室_mo8ip8e4",
+    "to": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "kind": "walk",
+    "weight": 860
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_room_2F儿科_mo8iq3o5",
+    "kind": "walk",
+    "weight": 225
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "kind": "walk",
+    "weight": 334
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 449
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 544
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_entrance_2F儿科入口_mo8itjkt",
+    "kind": "walk",
+    "weight": 451
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "kind": "walk",
+    "weight": 630
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_room_2F口腔科_mo8iq9vb",
+    "kind": "walk",
+    "weight": 781
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_room_2F核医学科_mo8ipu3c",
+    "kind": "walk",
+    "weight": 848
+  },
+  {
+    "from": "2F_hub_2F母婴室_mo8ipdcr",
+    "to": "2F_lift_2F客梯A1A2_mo8isuke",
+    "kind": "walk",
+    "weight": 874
+  },
+  {
+    "from": "2F_room_2F儿科_mo8iq3o5",
+    "to": "2F_entrance_2F儿科入口_mo8itjkt",
+    "kind": "walk",
+    "weight": 304
+  },
+  {
+    "from": "2F_room_2F儿科_mo8iq3o5",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 457
+  },
+  {
+    "from": "2F_room_2F儿科_mo8iq3o5",
+    "to": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "kind": "walk",
+    "weight": 405
+  },
+  {
+    "from": "2F_room_2F儿科_mo8iq3o5",
+    "to": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "kind": "walk",
+    "weight": 458
+  },
+  {
+    "from": "2F_room_2F儿科_mo8iq3o5",
+    "to": "2F_room_2F口腔科_mo8iq9vb",
+    "kind": "walk",
+    "weight": 607
+  },
+  {
+    "from": "2F_room_2F儿科_mo8iq3o5",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 741
+  },
+  {
+    "from": "2F_room_2F核医学科_mo8ipu3c",
+    "to": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "kind": "walk",
+    "weight": 657
+  },
+  {
+    "from": "2F_room_2F核医学科_mo8ipu3c",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 752
+  },
+  {
+    "from": "2F_room_2F核医学科_mo8ipu3c",
+    "to": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "kind": "walk",
+    "weight": 845
+  },
+  {
+    "from": "2F_room_2F核医学科_mo8ipu3c",
+    "to": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "kind": "walk",
+    "weight": 884
+  },
+  {
+    "from": "2F_entrance_2F儿科入口_mo8itjkt",
+    "to": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "kind": "walk",
+    "weight": 400
+  },
+  {
+    "from": "2F_entrance_2F儿科入口_mo8itjkt",
+    "to": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "kind": "walk",
+    "weight": 466
+  },
+  {
+    "from": "2F_entrance_2F儿科入口_mo8itjkt",
+    "to": "2F_room_2F口腔科_mo8iq9vb",
+    "kind": "walk",
+    "weight": 766
+  },
+  {
+    "from": "2F_entrance_2F儿科入口_mo8itjkt",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 758
+  },
+  {
+    "from": "2F_stairs_2F通往住院部楼梯_mo8itee8",
+    "to": "2F_entrance_2F通往住院部_mo8itohu",
+    "kind": "walk",
+    "weight": 309
+  },
+  {
+    "from": "2F_stairs_2F通往住院部楼梯_mo8itee8",
+    "to": "2F_hub_2F核磁共振室旁洗手间_mo8ioqu8",
+    "kind": "walk",
+    "weight": 439
+  },
+  {
+    "from": "2F_stairs_2F通往住院部楼梯_mo8itee8",
+    "to": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "kind": "walk",
+    "weight": 486
+  },
+  {
+    "from": "2F_entrance_2F通往住院部_mo8itohu",
+    "to": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "kind": "walk",
+    "weight": 476
+  },
+  {
+    "from": "2F_entrance_2F通往住院部_mo8itohu",
+    "to": "2F_hub_2F核磁共振室旁洗手间_mo8ioqu8",
+    "kind": "walk",
+    "weight": 748
+  },
+  {
+    "from": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "to": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "kind": "walk",
+    "weight": 809
+  },
+  {
+    "from": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 712
+  },
+  {
+    "from": "2F_stairs_2F儿科旁楼梯2_mo8irifn",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 781
+  },
+  {
+    "from": "2F_room_2F多学科门诊_mo8iqdcu",
+    "to": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7",
+    "kind": "walk",
+    "weight": 362
+  },
+  {
+    "from": "2F_room_2F多学科门诊_mo8iqdcu",
+    "to": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "kind": "walk",
+    "weight": 413
+  },
+  {
+    "from": "2F_room_2F多学科门诊_mo8iqdcu",
+    "to": "2F_room_2F口腔科_mo8iq9vb",
+    "kind": "walk",
+    "weight": 805
+  },
+  {
+    "from": "2F_room_2F多学科门诊_mo8iqdcu",
+    "to": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "kind": "walk",
+    "weight": 841
+  },
+  {
+    "from": "2F_room_2F多学科门诊_mo8iqdcu",
+    "to": "2F_room_2F外科_mo8iq633",
+    "kind": "walk",
+    "weight": 845
+  },
+  {
+    "from": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7",
+    "to": "2F_room_2F口腔科_mo8iq9vb",
+    "kind": "walk",
+    "weight": 458
+  },
+  {
+    "from": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 726
+  },
+  {
+    "from": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7",
+    "to": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "kind": "walk",
+    "weight": 768
+  },
+  {
+    "from": "2F_stairs_2F口腔科科旁楼梯2_mo8ir1v7",
+    "to": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "kind": "walk",
+    "weight": 874
+  },
+  {
+    "from": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "to": "2F_room_2F口腔科_mo8iq9vb",
+    "kind": "walk",
+    "weight": 416
+  },
+  {
+    "from": "2F_stairs_2F口腔科科旁楼梯1_mo8ir3vl",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 677
+  },
+  {
+    "from": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "to": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "kind": "walk",
+    "weight": 408
+  },
+  {
+    "from": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 451
+  },
+  {
+    "from": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 506
+  },
+  {
+    "from": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "to": "2F_lift_2F客梯A1A2_mo8isuke",
+    "kind": "walk",
+    "weight": 585
+  },
+  {
+    "from": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 777
+  },
+  {
+    "from": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "to": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "kind": "walk",
+    "weight": 824
+  },
+  {
+    "from": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 803
+  },
+  {
+    "from": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "to": "2F_hub_2F核磁共振室旁洗手间_mo8ioqu8",
+    "kind": "walk",
+    "weight": 834
+  },
+  {
+    "from": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "to": "2F_room_2F放射科_mo8ipqju",
+    "kind": "walk",
+    "weight": 856
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "to": "2F_room_2F外科_mo8iq633",
+    "kind": "walk",
+    "weight": 444
+  },
+  {
+    "from": "2F_stairs_2F外科旁楼梯2_mo8iqvvs",
+    "to": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "kind": "walk",
+    "weight": 680
+  },
+  {
+    "from": "2F_room_2F口腔科_mo8iq9vb",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 551
+  },
+  {
+    "from": "2F_room_2F外科_mo8iq633",
+    "to": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "kind": "walk",
+    "weight": 624
+  },
+  {
+    "from": "2F_room_2F外科_mo8iq633",
+    "to": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "kind": "walk",
+    "weight": 664
+  },
+  {
+    "from": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "to": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "kind": "walk",
+    "weight": 429
+  },
+  {
+    "from": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "to": "2F_lift_2F客梯A1A2_mo8isuke",
+    "kind": "walk",
+    "weight": 439
+  },
+  {
+    "from": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 536
+  },
+  {
+    "from": "2F_hub_2F门诊手术室旁洗手间_mo8iokpq",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 896
+  },
+  {
+    "from": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "to": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "kind": "walk",
+    "weight": 481
+  },
+  {
+    "from": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 504
+  },
+  {
+    "from": "2F_hub_2F门诊手术室_mo8ipk4e",
+    "to": "2F_lift_2F客梯A1A2_mo8isuke",
+    "kind": "walk",
+    "weight": 754
+  },
+  {
+    "from": "2F_lift_2F客梯A1A2_mo8isuke",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 485
+  },
+  {
+    "from": "2F_lift_2F客梯A1A2_mo8isuke",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 501
+  },
+  {
+    "from": "2F_lift_2F客梯A1A2_mo8isuke",
+    "to": "2F_room_2F乳腺中心_mo8ipz8r",
+    "kind": "walk",
+    "weight": 577
+  },
+  {
+    "from": "2F_hub_2F核磁共振室旁洗手间_mo8ioqu8",
+    "to": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "kind": "walk",
+    "weight": 776
+  },
+  {
+    "from": "2F_room_2F乳腺中心_mo8ipz8r",
+    "to": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "kind": "walk",
+    "weight": 561
+  },
+  {
+    "from": "2F_stairs_2F儿科旁楼梯1_mo8irkgr",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 776
+  },
+  {
+    "from": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "to": "2F_hub_2F导管室_mo8ioxzn",
+    "kind": "walk",
+    "weight": 523
+  },
+  {
+    "from": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "to": "2F_room_2F放射科_mo8ipqju",
+    "kind": "walk",
+    "weight": 873
+  },
+  {
+    "from": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "to": "2F_room_2F放射科_mo8ipqju",
+    "kind": "walk",
+    "weight": 727
+  },
+  {
+    "from": "2F_stairs_2F门诊手术室旁楼梯1_mo8iramp",
+    "to": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "kind": "walk",
+    "weight": 712
+  },
+  {
+    "from": "2F_stairs_2F门诊手术室旁楼梯2_mo8ircqp",
+    "to": "2F_room_2F放射科_mo8ipqju",
+    "kind": "walk",
+    "weight": 812
+  },
+  {
+    "from": "2F_hub_2F导管室_mo8ioxzn",
+    "to": "2F_room_2F放射科_mo8ipqju",
+    "kind": "walk",
+    "weight": 488
+  },
+  {
+    "from": "2F_hub_2F导管室_mo8ioxzn",
+    "to": "2F_stairs_2F导管室旁楼梯_mo8irrj9",
+    "kind": "walk",
+    "weight": 530
+  },
+  {
+    "from": "2F_room_2F放射科_mo8ipqju",
+    "to": "2F_stairs_2F导管室旁楼梯_mo8irrj9",
+    "kind": "walk",
+    "weight": 877
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_hub_3F肌电图室_mo8iv9oe",
+    "kind": "walk",
+    "weight": 88
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_hub_3F脑电图室_mo8iuzk2",
+    "kind": "walk",
+    "weight": 96
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_hub_3F心电图室_mo8iuw1q",
+    "kind": "walk",
+    "weight": 193
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_room_3F心内科_mo8iwqj1",
+    "kind": "walk",
+    "weight": 288
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 350
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "kind": "walk",
+    "weight": 387
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_room_3F中医科_mo8iwlvj",
+    "kind": "walk",
+    "weight": 392
+  },
+  {
+    "from": "3F_hub_3F肺功能室_mo8iv5f4",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 549
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_hub_3F脑电图室_mo8iuzk2",
+    "kind": "walk",
+    "weight": 184
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_hub_3F心电图室_mo8iuw1q",
+    "kind": "walk",
+    "weight": 280
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 345
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_room_3F心内科_mo8iwqj1",
+    "kind": "walk",
+    "weight": 376
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "kind": "walk",
+    "weight": 447
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_room_3F中医科_mo8iwlvj",
+    "kind": "walk",
+    "weight": 480
+  },
+  {
+    "from": "3F_hub_3F肌电图室_mo8iv9oe",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 612
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_hub_3F心电图室_mo8iuw1q",
+    "kind": "walk",
+    "weight": 97
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_room_3F心内科_mo8iwqj1",
+    "kind": "walk",
+    "weight": 192
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_room_3F中医科_mo8iwlvj",
+    "kind": "walk",
+    "weight": 296
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "kind": "walk",
+    "weight": 336
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 379
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 490
+  },
+  {
+    "from": "3F_hub_3F脑电图室_mo8iuzk2",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 621
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_room_3F心内科_mo8iwqj1",
+    "kind": "walk",
+    "weight": 97
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_room_3F中医科_mo8iwlvj",
+    "kind": "walk",
+    "weight": 201
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "kind": "walk",
+    "weight": 324
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 430
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 442
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 555
+  },
+  {
+    "from": "3F_hub_3F心电图室_mo8iuw1q",
+    "to": "3F_room_3F超声科门诊_mo8iwheu",
+    "kind": "walk",
+    "weight": 633
+  },
+  {
+    "from": "3F_room_3F心内科_mo8iwqj1",
+    "to": "3F_room_3F中医科_mo8iwlvj",
+    "kind": "walk",
+    "weight": 104
+  },
+  {
+    "from": "3F_room_3F心内科_mo8iwqj1",
+    "to": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "kind": "walk",
+    "weight": 308
+  },
+  {
+    "from": "3F_room_3F心内科_mo8iwqj1",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 416
+  },
+  {
+    "from": "3F_room_3F心内科_mo8iwqj1",
+    "to": "3F_room_3F超声科门诊_mo8iwheu",
+    "kind": "walk",
+    "weight": 537
+  },
+  {
+    "from": "3F_room_3F心内科_mo8iwqj1",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 476
+  },
+  {
+    "from": "3F_room_3F心内科_mo8iwqj1",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 492
+  },
+  {
+    "from": "3F_room_3F中医科_mo8iwlvj",
+    "to": "3F_room_3F超声科门诊_mo8iwheu",
+    "kind": "walk",
+    "weight": 432
+  },
+  {
+    "from": "3F_room_3F中医科_mo8iwlvj",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 406
+  },
+  {
+    "from": "3F_room_3F中医科_mo8iwlvj",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 417
+  },
+  {
+    "from": "3F_room_3F中医科_mo8iwlvj",
+    "to": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "kind": "walk",
+    "weight": 333
+  },
+  {
+    "from": "3F_room_3F中医科_mo8iwlvj",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 566
+  },
+  {
+    "from": "3F_hub_3F肠镜室_mo8ivk0n",
+    "to": "3F_hub_3F支气管镜室_mo8ivnig",
+    "kind": "walk",
+    "weight": 104
+  },
+  {
+    "from": "3F_hub_3F肠镜室_mo8ivk0n",
+    "to": "3F_hub_3F胃镜室_mo8ivfvu",
+    "kind": "walk",
+    "weight": 137
+  },
+  {
+    "from": "3F_hub_3F肠镜室_mo8ivk0n",
+    "to": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "kind": "walk",
+    "weight": 216
+  },
+  {
+    "from": "3F_hub_3F肠镜室_mo8ivk0n",
+    "to": "3F_stairs_3FA胃镜室旁楼梯_mo8iz9fc",
+    "kind": "walk",
+    "weight": 565
+  },
+  {
+    "from": "3F_hub_3F肠镜室_mo8ivk0n",
+    "to": "3F_hub_3F胃镜室旁洗手间_mo8j0lql",
+    "kind": "walk",
+    "weight": 419
+  },
+  {
+    "from": "3F_hub_3F肠镜室_mo8ivk0n",
+    "to": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "kind": "walk",
+    "weight": 544
+  },
+  {
+    "from": "3F_hub_3F支气管镜室_mo8ivnig",
+    "to": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "kind": "walk",
+    "weight": 112
+  },
+  {
+    "from": "3F_hub_3F支气管镜室_mo8ivnig",
+    "to": "3F_hub_3F胃镜室_mo8ivfvu",
+    "kind": "walk",
+    "weight": 240
+  },
+  {
+    "from": "3F_hub_3F支气管镜室_mo8ivnig",
+    "to": "3F_hub_3F胃镜室旁洗手间_mo8j0lql",
+    "kind": "walk",
+    "weight": 477
+  },
+  {
+    "from": "3F_hub_3F支气管镜室_mo8ivnig",
+    "to": "3F_room_3F超声科住院_mo8iwdfo",
+    "kind": "walk",
+    "weight": 600
+  },
+  {
+    "from": "3F_hub_3F支气管镜室_mo8ivnig",
+    "to": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "kind": "walk",
+    "weight": 543
+  },
+  {
+    "from": "3F_hub_3F支气管镜室_mo8ivnig",
+    "to": "3F_stairs_3FA胃镜室旁楼梯_mo8iz9fc",
+    "kind": "walk",
+    "weight": 594
+  },
+  {
+    "from": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "to": "3F_room_3F超声科住院_mo8iwdfo",
+    "kind": "walk",
+    "weight": 489
+  },
+  {
+    "from": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "to": "3F_hub_3F胃镜室_mo8ivfvu",
+    "kind": "walk",
+    "weight": 352
+  },
+  {
+    "from": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "to": "3F_hub_3F胃镜室旁洗手间_mo8j0lql",
+    "kind": "walk",
+    "weight": 549
+  },
+  {
+    "from": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "to": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "kind": "walk",
+    "weight": 572
+  },
+  {
+    "from": "3F_hub_3F胸腔镜室_mo8ivrxt",
+    "to": "3F_stairs_3FA胃镜室旁楼梯_mo8iz9fc",
+    "kind": "walk",
+    "weight": 650
+  },
+  {
+    "from": "3F_hub_3F胃镜室_mo8ivfvu",
+    "to": "3F_hub_3F胃镜室旁洗手间_mo8j0lql",
+    "kind": "walk",
+    "weight": 401
+  },
+  {
+    "from": "3F_hub_3F胃镜室_mo8ivfvu",
+    "to": "3F_stairs_3FA胃镜室旁楼梯_mo8iz9fc",
+    "kind": "walk",
+    "weight": 528
+  },
+  {
+    "from": "3F_hub_3F胃镜室_mo8ivfvu",
+    "to": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "kind": "walk",
+    "weight": 549
+  },
+  {
+    "from": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "to": "3F_stairs_3FA胃镜室旁楼梯_mo8iz9fc",
+    "kind": "walk",
+    "weight": 168
+  },
+  {
+    "from": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "to": "4F_lift_3F货梯2_mo8j2ks9",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "3F_stairs_3FA胃镜室旁楼梯_mo8iz9fc",
+    "to": "4F_stairs_3F手术室旁楼梯_mo8j4fzz",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "kind": "walk",
+    "weight": 187
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_hub_3F孕妇学校_mo8iuoq0",
+    "kind": "walk",
+    "weight": 204
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "kind": "walk",
+    "weight": 363
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_stairs_3FA妇科旁楼梯1_mo8j00ob",
+    "kind": "walk",
+    "weight": 481
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "kind": "walk",
+    "weight": 446
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "kind": "walk",
+    "weight": 633
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_room_3F产科_mo8iw15k",
+    "kind": "walk",
+    "weight": 580
+  },
+  {
+    "from": "3F_room_3F妇科_mo8iw3t9",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 631
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "kind": "walk",
+    "weight": 246
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "kind": "walk",
+    "weight": 400
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_hub_3F孕妇学校_mo8iuoq0",
+    "kind": "walk",
+    "weight": 352
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_hub_3F收费处_mo8ixngy",
+    "kind": "walk",
+    "weight": 526
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 458
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "kind": "walk",
+    "weight": 608
+  },
+  {
+    "from": "3F_hub_3F妇科旁导诊台_mo8ixuze",
+    "to": "3F_stairs_3FA妇科旁楼梯1_mo8j00ob",
+    "kind": "walk",
+    "weight": 666
+  },
+  {
+    "from": "3F_hub_3F孕妇学校_mo8iuoq0",
+    "to": "3F_stairs_3FA妇科旁楼梯1_mo8j00ob",
+    "kind": "walk",
+    "weight": 419
+  },
+  {
+    "from": "3F_hub_3F孕妇学校_mo8iuoq0",
+    "to": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "kind": "walk",
+    "weight": 415
+  },
+  {
+    "from": "3F_hub_3F孕妇学校_mo8iuoq0",
+    "to": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "kind": "walk",
+    "weight": 647
+  },
+  {
+    "from": "3F_hub_3F孕妇学校_mo8iuoq0",
+    "to": "3F_room_3F产科_mo8iw15k",
+    "kind": "walk",
+    "weight": 664
+  },
+  {
+    "from": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "to": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "kind": "walk",
+    "weight": 209
+  },
+  {
+    "from": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "to": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "kind": "walk",
+    "weight": 320
+  },
+  {
+    "from": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "to": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "kind": "walk",
+    "weight": 361
+  },
+  {
+    "from": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "to": "3F_room_3F产科_mo8iw15k",
+    "kind": "walk",
+    "weight": 538
+  },
+  {
+    "from": "3F_hub_3F产科旁导诊台_mo8iy6s3",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 584
+  },
+  {
+    "from": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "to": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "kind": "walk",
+    "weight": 442
+  },
+  {
+    "from": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "to": "3F_room_3F产科_mo8iw15k",
+    "kind": "walk",
+    "weight": 544
+  },
+  {
+    "from": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 446
+  },
+  {
+    "from": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "to": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "kind": "walk",
+    "weight": 523
+  },
+  {
+    "from": "3F_hub_3F产科旁洗手间_mo8iybbv",
+    "to": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "kind": "walk",
+    "weight": 632
+  },
+  {
+    "from": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "to": "3F_hub_3F收费处_mo8ixngy",
+    "kind": "walk",
+    "weight": 375
+  },
+  {
+    "from": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_stairs_3FA妇科旁楼梯2_mo8j04br",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 532
+  },
+  {
+    "from": "3F_entrance_3F通往住院部_mo8itzl7",
+    "to": "3F_stairs_3F通往住院部楼梯_mo8iyxka",
+    "kind": "walk",
+    "weight": 291
+  },
+  {
+    "from": "3F_entrance_3F通往住院部_mo8itzl7",
+    "to": "3F_lift_3F分子实验室旁货梯_mo8ix04p",
+    "kind": "walk",
+    "weight": 448
+  },
+  {
+    "from": "3F_entrance_3F通往住院部_mo8itzl7",
+    "to": "3F_hub_3F第二学术厅_mo8iu9f9",
+    "kind": "walk",
+    "weight": 621
+  },
+  {
+    "from": "3F_stairs_3F通往住院部楼梯_mo8iyxka",
+    "to": "3F_hub_3F胃镜室旁洗手间_mo8j0lql",
+    "kind": "walk",
+    "weight": 410
+  },
+  {
+    "from": "3F_stairs_3F通往住院部楼梯_mo8iyxka",
+    "to": "3F_lift_3F分子实验室旁货梯_mo8ix04p",
+    "kind": "walk",
+    "weight": 450
+  },
+  {
+    "from": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "to": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "kind": "walk",
+    "weight": 307
+  },
+  {
+    "from": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 371
+  },
+  {
+    "from": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 419
+  },
+  {
+    "from": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "to": "3F_hub_3F收费处_mo8ixngy",
+    "kind": "walk",
+    "weight": 546
+  },
+  {
+    "from": "3F_hub_3F中医科旁导诊台_mo8iy0cq",
+    "to": "3F_room_3F超声科门诊_mo8iwheu",
+    "kind": "walk",
+    "weight": 648
+  },
+  {
+    "from": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "to": "3F_hub_3F收费处_mo8ixngy",
+    "kind": "walk",
+    "weight": 386
+  },
+  {
+    "from": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "to": "4F_stairs_3F内科旁楼梯2_mo8j5r9e",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 544
+  },
+  {
+    "from": "3F_stairs_3FA中医科科旁楼梯2_mo8j09qt",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 672
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "to": "3F_room_3F检验科_mo8ivy7p",
+    "kind": "walk",
+    "weight": 588
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "to": "3F_lift_3F客梯A3A4_mo8ixelu",
+    "kind": "walk",
+    "weight": 519
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "to": "3F_stairs_3FA产科旁楼梯1_mo8izfxs",
+    "kind": "walk",
+    "weight": 624
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "to": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "kind": "walk",
+    "weight": 519
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "to": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯2_mo8izij3",
+    "to": "3F_room_3F产科_mo8iw15k",
+    "kind": "walk",
+    "weight": 587
+  },
+  {
+    "from": "3F_lift_3F客梯A3A4_mo8ixelu",
+    "to": "3F_stairs_3FA3客梯旁楼梯_mo8iz479",
+    "kind": "walk",
+    "weight": 360
+  },
+  {
+    "from": "3F_lift_3F客梯A3A4_mo8ixelu",
+    "to": "3F_stairs_3FA超声科门诊旁楼梯1_mo8izr08",
+    "kind": "walk",
+    "weight": 476
+  },
+  {
+    "from": "3F_lift_3F客梯A3A4_mo8ixelu",
+    "to": "4F_lift_3F客梯A3A4_mo8j2fky",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "3F_lift_3F客梯A3A4_mo8ixelu",
+    "to": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "kind": "walk",
+    "weight": 576
+  },
+  {
+    "from": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "to": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "kind": "walk",
+    "weight": 410
+  },
+  {
+    "from": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "to": "3F_stairs_3FA超声科门诊旁楼梯1_mo8izr08",
+    "kind": "walk",
+    "weight": 435
+  },
+  {
+    "from": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 496
+  },
+  {
+    "from": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "to": "3F_room_3F超声科门诊_mo8iwheu",
+    "kind": "walk",
+    "weight": 672
+  },
+  {
+    "from": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "to": "3F_room_3F超声科门诊_mo8iwheu",
+    "kind": "walk",
+    "weight": 393
+  },
+  {
+    "from": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 451
+  },
+  {
+    "from": "3F_hub_3F超声科门诊旁洗手间_mo8iyj7l",
+    "to": "3F_stairs_3FA超声科门诊旁楼梯1_mo8izr08",
+    "kind": "walk",
+    "weight": 480
+  },
+  {
+    "from": "3F_hub_3F收费处_mo8ixngy",
+    "to": "3F_lift_3F扶梯_mo8ixhox",
+    "kind": "walk",
+    "weight": 440
+  },
+  {
+    "from": "3F_room_3F超声科门诊_mo8iwheu",
+    "to": "3F_stairs_3FA超声科门诊旁楼梯1_mo8izr08",
+    "kind": "walk",
+    "weight": 415
+  },
+  {
+    "from": "3F_room_3F超声科门诊_mo8iwheu",
+    "to": "3F_stairs_3FA超声科门诊旁楼梯2_mo8izsxw",
+    "kind": "walk",
+    "weight": 437
+  },
+  {
+    "from": "3F_room_3F超声科门诊_mo8iwheu",
+    "to": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "kind": "walk",
+    "weight": 628
+  },
+  {
+    "from": "3F_room_3F产科_mo8iw15k",
+    "to": "3F_stairs_3FA产科旁楼梯1_mo8izfxs",
+    "kind": "walk",
+    "weight": 394
+  },
+  {
+    "from": "3F_room_3F产科_mo8iw15k",
+    "to": "3F_stairs_3FA妇科旁楼梯1_mo8j00ob",
+    "kind": "walk",
+    "weight": 419
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯1_mo8izfxs",
+    "to": "3F_room_3F检验科_mo8ivy7p",
+    "kind": "walk",
+    "weight": 476
+  },
+  {
+    "from": "3F_stairs_3FA产科旁楼梯1_mo8izfxs",
+    "to": "4F_stairs_3F理疗科旁楼梯1_mo8j4m97",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_stairs_3FA超声科门诊旁楼梯1_mo8izr08",
+    "to": "3F_stairs_3FA超声科门诊旁楼梯2_mo8izsxw",
+    "kind": "walk",
+    "weight": 656
+  },
+  {
+    "from": "3F_stairs_3FA超声科门诊旁楼梯1_mo8izr08",
+    "to": "3F_room_3F超声科住院_mo8iwdfo",
+    "kind": "walk",
+    "weight": 640
+  },
+  {
+    "from": "3F_stairs_3FA中医科科旁楼梯1_mo8j0bkh",
+    "to": "4F_stairs_3F内科旁楼梯1_mo8j59jb",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_lift_3F扶梯_mo8ixhox",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "3F_stairs_3FA超声科门诊旁楼梯2_mo8izsxw",
+    "to": "3F_room_3F超声科住院_mo8iwdfo",
+    "kind": "walk",
+    "weight": 566
+  },
+  {
+    "from": "3F_stairs_3FA超声科门诊旁楼梯2_mo8izsxw",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯2_mo8j4tcw",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "3F_lift_3F分子实验室旁货梯_mo8ix04p",
+    "to": "3F_hub_3F分子生物学实验室_mo8iugu6",
+    "kind": "walk",
+    "weight": 540
+  },
+  {
+    "from": "3F_lift_3F分子实验室旁货梯_mo8ix04p",
+    "to": "3F_hub_3F第二学术厅_mo8iu9f9",
+    "kind": "walk",
+    "weight": 550
+  },
+  {
+    "from": "3F_hub_3F分子生物学实验室_mo8iugu6",
+    "to": "3F_stairs_3F分子实验室旁楼梯_mo8iyrw4",
+    "kind": "walk",
+    "weight": 497
+  },
+  {
+    "from": "3F_hub_3F分子生物学实验室_mo8iugu6",
+    "to": "3F_hub_3F第二学术厅_mo8iu9f9",
+    "kind": "walk",
+    "weight": 529
+  },
+  {
+    "from": "3F_stairs_3F分子实验室旁楼梯_mo8iyrw4",
+    "to": "3F_hub_3F第二学术厅_mo8iu9f9",
+    "kind": "walk",
+    "weight": 550
+  },
+  {
+    "from": "3F_stairs_3F分子实验室旁楼梯_mo8iyrw4",
+    "to": "4F_stairs_3F楼梯1_mo8j47jv",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "kind": "walk",
+    "weight": 245
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "kind": "walk",
+    "weight": 385
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "kind": "walk",
+    "weight": 445
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_room_3F眼科_mo8j34zf",
+    "kind": "walk",
+    "weight": 466
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j51q2",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 501
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "to": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "kind": "walk",
+    "weight": 245
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "to": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "kind": "walk",
+    "weight": 385
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "kind": "walk",
+    "weight": 5
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "to": "4F_room_3F眼科_mo8j34zf",
+    "kind": "walk",
+    "weight": 466
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "to": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "kind": "walk",
+    "weight": 445
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j52hc",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 501
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "to": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "kind": "walk",
+    "weight": 245
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "to": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "kind": "walk",
+    "weight": 385
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "to": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "kind": "walk",
+    "weight": 445
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "to": "4F_room_3F眼科_mo8j34zf",
+    "kind": "walk",
+    "weight": 466
+  },
+  {
+    "from": "4F_stairs_3F耳鼻咽喉科旁楼梯2_mo8j5499",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 501
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_room_3F康复科_mo8j32ej",
+    "kind": "walk",
+    "weight": 136
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "kind": "walk",
+    "weight": 288
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_stairs_3F理疗科旁楼梯1_mo8j4m97",
+    "kind": "walk",
+    "weight": 394
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "kind": "walk",
+    "weight": 469
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_room_3F眼科_mo8j34zf",
+    "kind": "walk",
+    "weight": 498
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "kind": "walk",
+    "weight": 535
+  },
+  {
+    "from": "4F_room_3F理疗科_mo8j2zdh",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j513c",
+    "kind": "walk",
+    "weight": 578
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "kind": "walk",
+    "weight": 424
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "kind": "walk",
+    "weight": 315
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_room_3F眼科_mo8j34zf",
+    "kind": "walk",
+    "weight": 386
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_stairs_3F理疗科旁楼梯1_mo8j4m97",
+    "kind": "walk",
+    "weight": 508
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j513c",
+    "kind": "walk",
+    "weight": 475
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "kind": "walk",
+    "weight": 597
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "kind": "walk",
+    "weight": 600
+  },
+  {
+    "from": "4F_room_3F康复科_mo8j32ej",
+    "to": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "kind": "walk",
+    "weight": 629
+  },
+  {
+    "from": "4F_room_3F烧伤整形科_mo8j3mys",
+    "to": "4F_room_3F皮肤性病科_mo8j3qzl",
+    "kind": "walk",
+    "weight": 171
+  },
+  {
+    "from": "4F_room_3F烧伤整形科_mo8j3mys",
+    "to": "4F_stairs_3F内科旁楼梯1_mo8j59jb",
+    "kind": "walk",
+    "weight": 431
+  },
+  {
+    "from": "4F_room_3F烧伤整形科_mo8j3mys",
+    "to": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "kind": "walk",
+    "weight": 404
+  },
+  {
+    "from": "4F_room_3F烧伤整形科_mo8j3mys",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯2_mo8j4tcw",
+    "kind": "walk",
+    "weight": 425
+  },
+  {
+    "from": "4F_room_3F烧伤整形科_mo8j3mys",
+    "to": "4F_room_3F内科_mo8j3hrj",
+    "kind": "walk",
+    "weight": 537
+  },
+  {
+    "from": "4F_room_3F烧伤整形科_mo8j3mys",
+    "to": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "kind": "walk",
+    "weight": 530
+  },
+  {
+    "from": "4F_room_3F皮肤性病科_mo8j3qzl",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯2_mo8j4tcw",
+    "kind": "walk",
+    "weight": 291
+  },
+  {
+    "from": "4F_room_3F皮肤性病科_mo8j3qzl",
+    "to": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "kind": "walk",
+    "weight": 367
+  },
+  {
+    "from": "4F_room_3F皮肤性病科_mo8j3qzl",
+    "to": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "kind": "walk",
+    "weight": 559
+  },
+  {
+    "from": "4F_room_3F皮肤性病科_mo8j3qzl",
+    "to": "4F_stairs_3F内科旁楼梯1_mo8j59jb",
+    "kind": "walk",
+    "weight": 594
+  },
+  {
+    "from": "4F_room_3F皮肤性病科_mo8j3qzl",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯1_mo8j4v4d",
+    "kind": "walk",
+    "weight": 573
+  },
+  {
+    "from": "4F_lift_3F货梯2_mo8j2ks9",
+    "to": "4F_stairs_3F手术室旁楼梯_mo8j4fzz",
+    "kind": "walk",
+    "weight": 209
+  },
+  {
+    "from": "4F_lift_3F货梯2_mo8j2ks9",
+    "to": "4F_hub_3F手术室_mo8j0uar",
+    "kind": "walk",
+    "weight": 600
+  },
+  {
+    "from": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "to": "4F_room_3F眼科_mo8j34zf",
+    "kind": "walk",
+    "weight": 220
+  },
+  {
+    "from": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "to": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "kind": "walk",
+    "weight": 357
+  },
+  {
+    "from": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 473
+  },
+  {
+    "from": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "to": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "kind": "walk",
+    "weight": 435
+  },
+  {
+    "from": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "to": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "kind": "walk",
+    "weight": 530
+  },
+  {
+    "from": "4F_hub_3F眼科旁导诊台_mo8j1nhg",
+    "to": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "kind": "walk",
+    "weight": 633
+  },
+  {
+    "from": "4F_room_3F眼科_mo8j34zf",
+    "to": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "kind": "walk",
+    "weight": 274
+  },
+  {
+    "from": "4F_room_3F眼科_mo8j34zf",
+    "to": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "kind": "walk",
+    "weight": 408
+  },
+  {
+    "from": "4F_room_3F眼科_mo8j34zf",
+    "to": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "kind": "walk",
+    "weight": 426
+  },
+  {
+    "from": "4F_room_3F眼科_mo8j34zf",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j513c",
+    "kind": "walk",
+    "weight": 593
+  },
+  {
+    "from": "4F_room_3F眼科_mo8j34zf",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 549
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "to": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "kind": "walk",
+    "weight": 237
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 404
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "to": "4F_hub_3F内科旁导诊台_mo8j1tlb",
+    "kind": "walk",
+    "weight": 441
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 480
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯1_mo8j4v4d",
+    "kind": "walk",
+    "weight": 544
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁洗手间_mo8j1ejr",
+    "to": "4F_room_3F内科_mo8j3hrj",
+    "kind": "walk",
+    "weight": 566
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯1_mo8j4v4d",
+    "kind": "walk",
+    "weight": 373
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "to": "4F_stairs_3F皮肤性病科旁楼梯2_mo8j4tcw",
+    "kind": "walk",
+    "weight": 616
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 465
+  },
+  {
+    "from": "4F_hub_3F皮肤性病科旁导诊台_mo8j241c",
+    "to": "4F_hub_3F内科旁导诊台_mo8j1tlb",
+    "kind": "walk",
+    "weight": 624
+  },
+  {
+    "from": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "to": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "kind": "walk",
+    "weight": 244
+  },
+  {
+    "from": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 441
+  },
+  {
+    "from": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 497
+  },
+  {
+    "from": "4F_hub_3F康复科旁洗手间_mo8j14r2",
+    "to": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "kind": "walk",
+    "weight": 552
+  },
+  {
+    "from": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "to": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "kind": "walk",
+    "weight": 367
+  },
+  {
+    "from": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 512
+  },
+  {
+    "from": "4F_hub_3F理疗科旁导诊台_mo8j1y91",
+    "to": "4F_stairs_3F理疗科旁楼梯1_mo8j4m97",
+    "kind": "walk",
+    "weight": 617
+  },
+  {
+    "from": "4F_hub_3F内科旁导诊台_mo8j1tlb",
+    "to": "4F_stairs_3F内科旁楼梯2_mo8j5r9e",
+    "kind": "walk",
+    "weight": 250
+  },
+  {
+    "from": "4F_hub_3F内科旁导诊台_mo8j1tlb",
+    "to": "4F_room_3F内科_mo8j3hrj",
+    "kind": "walk",
+    "weight": 264
+  },
+  {
+    "from": "4F_hub_3F内科旁导诊台_mo8j1tlb",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 482
+  },
+  {
+    "from": "4F_hub_3F内科旁导诊台_mo8j1tlb",
+    "to": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "kind": "walk",
+    "weight": 533
+  },
+  {
+    "from": "4F_stairs_3F内科旁楼梯2_mo8j5r9e",
+    "to": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "kind": "walk",
+    "weight": 376
+  },
+  {
+    "from": "4F_stairs_3F内科旁楼梯2_mo8j5r9e",
+    "to": "4F_room_3F内科_mo8j3hrj",
+    "kind": "walk",
+    "weight": 432
+  },
+  {
+    "from": "4F_stairs_3F内科旁楼梯2_mo8j5r9e",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 499
+  },
+  {
+    "from": "4F_room_3F内科_mo8j3hrj",
+    "to": "4F_stairs_3F内科旁楼梯1_mo8j59jb",
+    "kind": "walk",
+    "weight": 391
+  },
+  {
+    "from": "4F_room_3F戒烟门诊_mo8j3vu7",
+    "to": "4F_lift_3F扶梯_mo8j5vbq",
+    "kind": "walk",
+    "weight": 345
+  },
+  {
+    "from": "4F_lift_3F扶梯_mo8j5vbq",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 551
+  },
+  {
+    "from": "4F_room_3F耳鼻咽喉科_mo8j3ey5",
+    "to": "4F_stairs_3F耳鼻咽喉科旁楼梯1_mo8j513c",
+    "kind": "walk",
+    "weight": 420
+  },
+  {
+    "from": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "to": "4F_lift_3F客梯A3A4_mo8j2fky",
+    "kind": "walk",
+    "weight": 431
+  },
+  {
+    "from": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "to": "4F_room_3F输血科_mo8j2vgm",
+    "kind": "walk",
+    "weight": 562
+  },
+  {
+    "from": "4F_stairs_3F理疗科旁楼梯2_mo8j4o5i",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 510
+  },
+  {
+    "from": "4F_stairs_3F皮肤性病科旁楼梯1_mo8j4v4d",
+    "to": "4F_lift_3F客梯A3A4_mo8j2fky",
+    "kind": "walk",
+    "weight": 440
+  },
+  {
+    "from": "4F_stairs_3F皮肤性病科旁楼梯1_mo8j4v4d",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 453
+  },
+  {
+    "from": "4F_lift_3F货梯1_mo8j2iur",
+    "to": "4F_stairs_3F楼梯2_mo8j49ep",
+    "kind": "walk",
+    "weight": 376
+  },
+  {
+    "from": "4F_lift_3F货梯1_mo8j2iur",
+    "to": "4F_room_3F病理科_mo8j2qal",
+    "kind": "walk",
+    "weight": 738
+  },
+  {
+    "from": "4F_stairs_3F理疗科旁楼梯1_mo8j4m97",
+    "to": "4F_room_3F输血科_mo8j2vgm",
+    "kind": "walk",
+    "weight": 405
+  },
+  {
+    "from": "4F_lift_3F客梯A3A4_mo8j2fky",
+    "to": "4F_lift_3FA3客梯旁楼梯_mo8j65k3",
+    "kind": "walk",
+    "weight": 402
+  },
+  {
+    "from": "4F_lift_3F客梯A3A4_mo8j2fky",
+    "to": "4F_lift_3F客梯A1A2_mo8j2d4e",
+    "kind": "walk",
+    "weight": 585
+  },
+  {
+    "from": "4F_lift_3FA3客梯旁楼梯_mo8j65k3",
+    "to": "4F_hub_3F手术室_mo8j0uar",
+    "kind": "walk",
+    "weight": 805
+  },
+  {
+    "from": "4F_room_3F输血科_mo8j2vgm",
+    "to": "4F_room_3F病理科_mo8j2qal",
+    "kind": "walk",
+    "weight": 456
+  },
+  {
+    "from": "4F_room_3F病理科_mo8j2qal",
+    "to": "4F_stairs_3F楼梯1_mo8j47jv",
+    "kind": "walk",
+    "weight": 735
+  },
+  {
+    "from": "2F_lift_2F客梯A1A2_mo8isuke",
+    "to": "3F_lift_3F客梯A1A2_mo8ixc3s",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "2F_lift_2F客梯A3A4_mo8isx7g",
+    "to": "3F_lift_3F客梯A3A4_mo8ixelu",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "2F_stairs_2FA3客梯旁楼梯_mo8it7va",
+    "to": "3F_stairs_3FA3客梯旁楼梯_mo8iz479",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "2F_stairs_2F通往住院部楼梯_mo8itee8",
+    "to": "3F_stairs_3F通往住院部楼梯_mo8iyxka",
+    "kind": "stairs",
+    "weight": 80
+  },
+  {
+    "from": "2F_lift_2F导管室旁货梯_mo8isc88",
+    "to": "3F_lift_3F分子实验室旁货梯_mo8ix04p",
+    "kind": "elevator",
+    "weight": 50
+  },
+  {
+    "from": "2F_lift_2F核磁共振室旁货梯_mo8iskum",
+    "to": "3F_lift_3F胃镜室旁货梯_mo8ix661",
+    "kind": "elevator",
+    "weight": 50
+  }
+]
